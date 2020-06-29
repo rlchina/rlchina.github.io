@@ -4,15 +4,41 @@ icon: fa-book
 order: 4
 ---
 
-本次课程共10节，安排如下:
-
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Course</th>
+        <th>Teacher</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Ante turpis integer aliquet porttitor.</td>
+        <td>Robert Burton</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Vis ac commodo adipiscing arcu aliquet.</td>
+        <td>Robert Musil</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td> Morbi faucibus arcu accumsan lorem.</td>
+        <td>Malcolm Lowry</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Vitae integer tempus condimentum.</td>
+        <td>Thomas Wolfe</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Ante turpis integer aliquet porttitor.</td>
+        <td>Karl Marx</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
