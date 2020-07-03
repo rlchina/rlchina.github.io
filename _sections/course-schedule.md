@@ -20,64 +20,69 @@ order: 3
     </thead>
     <tbody>
       <tr>
-        <td>2020-07-01</td>
+        <td>2020-07-27</td>
         <td>Openning and introduction</td>
-        <td>Jun</td>
+        <td>汪军</td>
       </tr>
       <tr>
-        <td>2020-07-02</td>
+        <td>2020-07-27</td>
         <td>Reinforcement Learning (Value-baed)</td>
         <td>Zongqing</td>
       </tr>
       <tr>
-        <td>2020-07-03</td>
+        <td>2020-07-27</td>
         <td>Policy-based RL and RL theory</td>
-        <td>Jun</td>
+        <td>汪军</td>
       </tr>
       <tr>
-        <td>2020-07-04</td>
+        <td>2020-07-28</td>
         <td>Optimisation in learning</td>
         <td>Haitham</td>
       </tr>
       <tr>
-        <td>2020-07-05</td>
+        <td>2020-07-28</td>
         <td>Model-based Reinforcement Learning</td>
-        <td>Weinan</td>
+        <td>张伟楠</td>
       </tr>
       <tr>
-        <td>2020-07-06</td>
+        <td>2020-07-29</td>
         <td>Control as Inference</td>
         <td>Zhanxing</td>
       </tr>
       <tr>
-        <td>2020-07-07</td>
+        <td>2020-07-29</td>
         <td>Imitation learning</td>
         <td>Yang</td>
       </tr>
       <tr>
-        <td>2020-07-08</td>
+        <td>2020-07-30</td>
         <td>Hierarchical Reinforcement Learning</td>
         <td>Jianye</td>
       </tr>
       <tr>
-        <td>2020-07-09</td>
+        <td>2020-07-30</td>
         <td>Game theory basic</td>
-        <td>Haifeng</td>
+        <td>张海峰</td>
       </tr>
       <tr>
-        <td>2020-07-10</td>
+        <td>2020-07-31</td>
         <td>Mechanism design</td>
         <td>Bo</td>
       </tr>
       <tr>
-        <td>2020-07-11</td>
+        <td>2020-07-31</td>
         <td>Deep Multiagent Learning</td>
         <td>Congjie</td>
       </tr>
       <tr>
-        <td>2020-07-12</td>
+        <td>2020-08-01</td>
         <td>Many-agent learning</td>
         <td>Yaodong</td>
+      </tr>
+      <tr>
+        <td>2020-08-01</td>
+        <td>Mean-field Games and controls</td>
+        <td>徐任远</td>
       </tr>
     </tbody>
   </table>
