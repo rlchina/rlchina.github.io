@@ -27,7 +27,7 @@ order: 3
       <tr>
         <td>2020-07-27</td>
         <td>Reinforcement Learning (Value-baed)</td>
-        <td>Zongqing</td>
+        <td>卢宗青</td>
       </tr>
       <tr>
         <td>2020-07-27</td>
@@ -47,17 +47,17 @@ order: 3
       <tr>
         <td>2020-07-29</td>
         <td>Control as Inference</td>
-        <td>Zhanxing</td>
+        <td>朱占星</td>
       </tr>
       <tr>
         <td>2020-07-29</td>
         <td>Imitation learning</td>
-        <td>Yang</td>
+        <td>俞扬</td>
       </tr>
       <tr>
         <td>2020-07-30</td>
         <td>Hierarchical Reinforcement Learning</td>
-        <td>Jianye</td>
+        <td>郝建业</td>
       </tr>
       <tr>
         <td>2020-07-30</td>
@@ -67,17 +67,17 @@ order: 3
       <tr>
         <td>2020-07-31</td>
         <td>Mechanism design</td>
-        <td>Bo</td>
+        <td>安波</td>
       </tr>
       <tr>
         <td>2020-07-31</td>
         <td>Deep Multiagent Learning</td>
-        <td>Congjie</td>
+        <td>张崇洁</td>
       </tr>
       <tr>
         <td>2020-08-01</td>
         <td>Many-agent learning</td>
-        <td>Yaodong</td>
+        <td>杨耀东</td>
       </tr>
       <tr>
         <td>2020-08-01</td>
