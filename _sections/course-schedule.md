@@ -23,13 +23,13 @@ order: 2
     <tbody>
       <tr>
         <td>2020-07-27</td>
-        <td>19:00-20:40</td>
+        <td>19:00-19:10</td>
         <td>Openning and introduction</td>
         <td>汪军</td>
       </tr>
       <tr>
         <td>2020-07-27</td>
-        <td>19:00-20:40</td>
+        <td>19:10-20:50</td>
         <td>Reinforcement Learning (Value-baed)</td>
         <td>卢宗青</td>
       </tr>
