@@ -14,88 +14,74 @@ order: 2
   <table>
     <thead>
       <tr>
-        <th>Date</th>
-        <th>Time</th>
+        <th>DateTime</th>
         <th>Course</th>
         <th>Teacher</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>2020-07-27</td>
-        <td>19:00-19:10</td>
+        <td>2020-07-27 19:00-19:10</td>
         <td>Openning and introduction</td>
         <td>汪军</td>
       </tr>
       <tr>
-        <td>2020-07-27</td>
-        <td>19:10-20:50</td>
+        <td>2020-07-27 19:10-20:50</td>
         <td>Reinforcement Learning (Value-baed)</td>
         <td>卢宗青</td>
       </tr>
       <tr>
-        <td>2020-07-28</td>
-        <td>19:00-20:40</td>
+        <td>2020-07-28 19:00-20:40</td>
         <td>Policy-based RL and RL theory</td>
         <td>汪军</td>
       </tr>
       <tr>
-        <td>2020-07-29</td>
-        <td>19:00-20:40</td>
+        <td>2020-07-29 19:00-20:40</td>
         <td>Optimisation in learning</td>
         <td>Haitham</td>
       </tr>
       <tr>
-        <td>2020-07-30</td>
-        <td>19:00-20:40</td>
+        <td>2020-07-30 19:00-20:40</td>
         <td>Model-based Reinforcement Learning</td>
         <td>张伟楠</td>
       </tr>
       <tr>
-        <td>2020-07-31</td>
-        <td>19:00-20:40</td>
+        <td>2020-07-31 19:00-20:40</td>
         <td>Control as Inference</td>
         <td>朱占星</td>
       </tr>
       <tr>
-        <td>2020-08-01</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-01 19:00-20:40</td>
         <td>Imitation learning</td>
         <td>俞扬</td>
       </tr>
       <tr>
-        <td>2020-08-03</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-03 19:00-20:40</td>
         <td>Hierarchical Reinforcement Learning</td>
         <td>郝建业</td>
       </tr>
       <tr>
-        <td>2020-08-04</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-04 19:00-20:40</td>
         <td>Game theory basic</td>
         <td>张海峰</td>
       </tr>
       <tr>
-        <td>2020-08-05</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-05 19:00-20:40</td>
         <td>Mechanism design</td>
         <td>安波</td>
       </tr>
       <tr>
-        <td>2020-08-06</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-06 19:00-20:40</td>
         <td>Deep Multiagent Learning</td>
         <td>张崇洁</td>
       </tr>
       <tr>
-        <td>2020-08-07</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-07 19:00-20:40</td>
         <td>Many-agent learning</td>
         <td>杨耀东</td>
       </tr>
       <tr>
-        <td>2020-08-08</td>
-        <td>19:00-20:40</td>
+        <td>2020-08-08 19:00-20:40</td>
         <td>Mean-field Games and controls</td>
         <td>徐任远</td>
       </tr>
