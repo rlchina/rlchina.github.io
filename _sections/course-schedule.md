@@ -22,22 +22,22 @@ order: 2
     <tbody>
       <tr>
         <td>2020-07-27 19:00-19:10</td>
-        <td>Openning and introduction</td>
+        <td>Openning and Introduction</td>
         <td>汪军</td>
       </tr>
       <tr>
         <td>2020-07-27 19:10-20:50</td>
-        <td>Reinforcement Learning (Value-baed)</td>
+        <td>Value-based Reinforcement Learning</td>
         <td>卢宗青</td>
       </tr>
       <tr>
         <td>2020-07-28 19:00-20:40</td>
-        <td>Policy-based RL and RL theory</td>
+        <td>Policy-based RL and RL Theory</td>
         <td>汪军</td>
       </tr>
       <tr>
         <td>2020-07-29 19:00-20:40</td>
-        <td>Optimisation in learning</td>
+        <td>Optimisation in Learning</td>
         <td>Haitham</td>
       </tr>
       <tr>
@@ -52,7 +52,7 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-01 19:00-20:40</td>
-        <td>Imitation learning</td>
+        <td>Imitation Learning</td>
         <td>俞扬</td>
       </tr>
       <tr>
@@ -62,12 +62,12 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-04 19:00-20:40</td>
-        <td>Game theory basic</td>
+        <td>Game Theory Basic</td>
         <td>张海峰</td>
       </tr>
       <tr>
         <td>2020-08-05 19:00-20:40</td>
-        <td>Mechanism design</td>
+        <td>Multiagent Systems</td>
         <td>安波</td>
       </tr>
       <tr>
@@ -77,12 +77,12 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-07 19:00-20:40</td>
-        <td>Many-agent learning</td>
+        <td>Advances in Multi-agent Learning</td>
         <td>杨耀东</td>
       </tr>
       <tr>
         <td>2020-08-08 19:00-20:40</td>
-        <td>Mean-field Games and controls</td>
+        <td>Mean-field Games and Controls</td>
         <td>徐任远</td>
       </tr>
     </tbody>
