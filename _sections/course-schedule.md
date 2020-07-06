@@ -67,12 +67,12 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-05 19:00-20:40</td>
-        <td>Multiagent Systems</td>
+        <td>Multi-agent Systems</td>
         <td>安波</td>
       </tr>
       <tr>
         <td>2020-08-06 19:00-20:40</td>
-        <td>Deep Multiagent Learning</td>
+        <td>Deep Multi-agent Learning</td>
         <td>张崇洁</td>
       </tr>
       <tr>
