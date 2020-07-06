@@ -4,11 +4,11 @@ icon: fa-book
 order: 2
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><b>课程内容</b>: 从模式识别转变到智能决策，是人工智能发展进程的关键一步。本次在线课程对强化学习与智能科学这一前沿领域进行全面的介绍，从严谨的数学推导，到最新的研究结果和理论。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;color: black"><b>课程内容</b>: 从模式识别转变到智能决策，是人工智能发展进程的关键一步。本次在线课程对强化学习与智能科学这一前沿领域进行全面的介绍，从严谨的数学推导，到最新的研究结果和理论。</p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><b>面向对象</b>: 针对具有工程背景的优秀本科生、理学硕士、博士生和行业从业人员；了解机器学习的相关知识；熟悉统计学和概率论基础。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;color: black"><b>面向对象</b>: 针对具有工程背景的优秀本科生、理学硕士、博士生和行业从业人员；了解机器学习的相关知识；熟悉统计学和概率论基础。</p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><b>课程设置</b>: 从7月27日开始，周一至周六，连续两周每晚7点到8点40，40分钟课程后休息5分钟，继续40分钟课程后15分钟答疑。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;color: black"><b>课程设置</b>: 从7月27日开始，周一至周六，连续两周每晚7点到8点40，40分钟课程后休息5分钟，继续40分钟课程后15分钟答疑。</p>
 
 <div class="table-wrapper">
   <table>
