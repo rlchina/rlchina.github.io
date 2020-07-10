@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   RLDS Summer School Promotion.
 author: RLChina
 email: rlchinacamp@163.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
