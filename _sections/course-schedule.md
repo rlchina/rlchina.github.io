@@ -85,6 +85,11 @@ order: 2
         <td>Mean-field Games and Controls</td>
         <td>徐任远</td>
       </tr>
+      <tr>
+        <td>2020-08-08 20:40-21:10</td>
+        <td>Panel Discussion</td>
+        <td>全体导师</td>
+      </tr>
     </tbody>
   </font></table>
 </div>
