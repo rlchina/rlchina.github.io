@@ -14,7 +14,7 @@ order: 2
   <table><font color="black">
     <thead>
       <tr>
-        <th>DateTime</th>
+        <th>Date & Time</th>
         <th>Course</th>
         <th>Teacher</th>
       </tr>
