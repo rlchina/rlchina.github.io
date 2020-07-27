@@ -6,64 +6,64 @@ order: 4
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 1、卢宗青: Value-based Reinforcement Learning <br />
 - Introduction to Reinforcement Learning <br />
-    <p style="text-indent:2em;">- About RL <br /></p>
-    <p style="text-indent:2em;">- RL problem <br /></p>
-    <p style="text-indent:2em;">- Inside an RL agent <br /></p>
-    <p style="text-indent:2em;">- Markov Decision Processes <br /></p>
+    <span style="text-indent:2em;">- About RL <br /></span>
+    <span style="text-indent:2em;">- RL problem <br /></span>
+    <span style="text-indent:2em;">- Inside an RL agent <br /></span>
+    <span style="text-indent:2em;">- Markov Decision Processes <br /></span>
 - Value-based Methods <br />
-    <p style="text-indent:2em;">- Dynamic Programming <br /></p>
-    <p style="text-indent:2em;">- Monte Carlo <br /></p>
-    <p style="text-indent:2em;">- TD Learning <br /></p>
-    <p style="text-indent:2em;">- Off-policy Learning <br />
-    <p style="text-indent:2em;">- DQN and its variants <br /></p>
+    <span style="text-indent:2em;">- Dynamic Programming <br /></span>
+    <span style="text-indent:2em;">- Monte Carlo <br /></span>
+    <span style="text-indent:2em;">- TD Learning <br /></span>
+    <span style="text-indent:2em;">- Off-policy Learning <br /></span>
+    <span style="text-indent:2em;">- DQN and its variants <br /></span>
 <br />
 2、汪军: Policy-based RL and RL Theory <br />
 - Policy based approaches <br />
-    <p style="text-indent:2em;">- Policy gradient theorem <br /></p>
-    <p style="text-indent:2em;">- REINFORCE algorithm <br /></p>
-    <p style="text-indent:2em;">- Natural policy gradient <br /></p>
+    <span style="text-indent:2em;">- Policy gradient theorem <br /></span>
+    <span style="text-indent:2em;">- REINFORCE algorithm <br /></span>
+    <span style="text-indent:2em;">- Natural policy gradient <br /></span>
 - PAC Learning theory <br />
-    <p style="text-indent:2em;">- Definition and concepts <br /></p>
-    <p style="text-indent:2em;">- Concentration inequalities <br /></p>
-    <p style="text-indent:2em;">- Uniform convergence <br /></p>
+    <span style="text-indent:2em;">- Definition and concepts <br /></span>
+    <span style="text-indent:2em;">- Concentration inequalities <br /></span>
+    <span style="text-indent:2em;">- Uniform convergence <br /></span>
 - RL theory <br />
-    <p style="text-indent:2em;">- Approximate Dynamic Programming <br /></p>
-    <p style="text-indent:2em;">- Approximate Value Iteractions <br /></p>
-    <p style="text-indent:2em;">- Approximate Policy Iterations <br /></p>
-    <p style="text-indent:2em;">- Theoretical bounds and sample complexity analysis <br /></p>
+    <span style="text-indent:2em;">- Approximate Dynamic Programming <br /></span>
+    <span style="text-indent:2em;">- Approximate Value Iteractions <br /></span>
+    <span style="text-indent:2em;">- Approximate Policy Iterations <br /></span>
+    <span style="text-indent:2em;">- Theoretical bounds and sample complexity analysis <br /></span>
 <br />
 3、Haitham: Optimisation in Learning <br />
 - Motivation, Functions & Solution Types <br />
-    <p style="text-indent:2em;">- Applications of optimisation in Machine Learning <br /></p>
-    <p style="text-indent:2em;">- Convex vs Non-Convex Optimisation Techniques <br /></p>
-    <p style="text-indent:2em;">- Non-Convex Optimisation Solution Types <br /></p>
+    <span style="text-indent:2em;">- Applications of optimisation in Machine Learning <br /></span>
+    <span style="text-indent:2em;">- Convex vs Non-Convex Optimisation Techniques <br /></span>
+    <span style="text-indent:2em;">- Non-Convex Optimisation Solution Types <br /></span>
 - Brief Survey of Optimisation Methods – Merits & Demerits <br />
-    <p style="text-indent:2em;">- Zero-Order Techniques <br /></p>
-    <p style="text-indent:2em;">- First-Order Techniques <br /></p>
-    <p style="text-indent:2em;">- Second-Order Techniques <br /></p>
+    <span style="text-indent:2em;">- Zero-Order Techniques <br /></span>
+    <span style="text-indent:2em;">- First-Order Techniques <br /></span>
+    <span style="text-indent:2em;">- Second-Order Techniques <br /></span>
 - ADAM: An Adaptive Solver <br />
-    <p style="text-indent:2em;">- Brief History of ADAM <br /></p>
-    <p style="text-indent:2em;">- ADAM’s Description <br /></p>
+    <span style="text-indent:2em;">- Brief History of ADAM <br /></span>
+    <span style="text-indent:2em;">- ADAM’s Description <br /></span>
 - ADAM’s Convergence Proof: <br />
-    <p style="text-indent:2em;">- Proof Strategy <br /></p>
-    <p style="text-indent:2em;">- Assumptions <br /></p>
-    <p style="text-indent:2em;">- Loss Function Difference Bound and Stationary Point Convergence <br /></p>
+    <span style="text-indent:2em;">- Proof Strategy <br /></span>
+    <span style="text-indent:2em;">- Assumptions <br /></span>
+    <span style="text-indent:2em;">- Loss Function Difference Bound and Stationary Point Convergence <br /></span>
 <br />
 4、张伟楠: Model-based Reinforcement Learning <br />
 - Model-based RL concepts <br />
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Blackbox & whitebox models <br /></p>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Blackbox & whitebox models <br /></span>
 - Classic MBRL <br />
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Q-planning <br /></p>
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Dyna-Q <br /></p>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Q-planning <br /></span>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Dyna-Q <br /></span>
 - Blackbox MBRL <br />
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Model Predictive Control <br /></p>
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Probabilistic Ensemble & Trajectory Sampling <br /></p>
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Stochastic Lower Bound Optimization <br /></p>
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Model-based Policy Optimization <br /></p>
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Bidirectional Model based Policy Optimization <br /></p>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Model Predictive Control <br /></span>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Probabilistic Ensemble & Trajectory Sampling <br /></span>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Stochastic Lower Bound Optimization <br /></span>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Model-based Policy Optimization <br /></span>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Bidirectional Model based Policy Optimization <br /></span>
 - Whitebox MBRL <br />
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Stochastic Value Gradient <br />
-    <p style="text-indent:2em;"><p style="text-indent:2em;">- Model Augmented Actor Critic <br />
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Stochastic Value Gradient <br /></span>
+    <span style="text-indent:2em;"><span style="text-indent:2em;">- Model Augmented Actor Critic <br /></span>
 <br />
 5、朱占星: Control as Inference  <br />
 - Basics of probabilistic graphical models (D-separation, variational inference.) <br />
@@ -120,23 +120,23 @@ order: 4
 <br />
 12、徐任远: Mean-field Games and Controls <br />
 - Mean-field game models  <br />
-    <p style="text-indent:2em;">- Examples  <br /></p>>
-    <p style="text-indent:2em;">- Approximation of non-cooperative games in the large population regime  <br /></p>
-    <p style="text-indent:2em;">- Equilibrium concept  <br /></p>
+    <span style="text-indent:2em;">- Examples  <br /></span>
+    <span style="text-indent:2em;">- Approximation of non-cooperative games in the large population regime  <br /></span>
+    <span style="text-indent:2em;">- Equilibrium concept  <br /></span>
 - Existence and uniqueness of the equilibrium  <br />
 - Q-learning based algorithm  <br />
-    <p style="text-indent:2em;">- Stabilizing and smoothing techniques  <br /></p>
-    <p style="text-indent:2em;">- Convergence and sample complexity analysis  <br /></p>
+    <span style="text-indent:2em;">- Stabilizing and smoothing techniques  <br /></span>
+    <span style="text-indent:2em;">- Convergence and sample complexity analysis  <br /></span>
 - General algorithms for learning mean-fifield games  <br />
-    <p style="text-indent:2em;">- Value-based algorithms (light touch)  <br /></p>
-    <p style="text-indent:2em;">- Policy-based algorithms (light touch) <br /></p>
+    <span style="text-indent:2em;">- Value-based algorithms (light touch)  <br /></span>
+    <span style="text-indent:2em;">- Policy-based algorithms (light touch) <br /></span>
 - Mean-field control models   <br />
-    <p style="text-indent:2em;">- Examples  <br /></p>
-    <p style="text-indent:2em;">- Approximation of cooperative games in the large population regime  <br /></p>
-    <p style="text-indent:2em;">- Social optimality condition  <br /></p>
+    <span style="text-indent:2em;">- Examples  <br /></span>
+    <span style="text-indent:2em;">- Approximation of cooperative games in the large population regime  <br /></span>
+    <span style="text-indent:2em;">- Social optimality condition  <br /></span>
 - Dynamic programming principle on the probability measure space  <br />
 - Q-learning based algorithm  <br />
-    <p style="text-indent:2em;">- Kernel regression  <br /></p>
-    <p style="text-indent:2em;">- Approximated Bellman update  <br /></p>
-    <p style="text-indent:2em;">- Convergence and sample complexity analysis <br /></p>
+    <span style="text-indent:2em;">- Kernel regression  <br /></span>
+    <span style="text-indent:2em;">- Approximated Bellman update  <br /></span>
+    <span style="text-indent:2em;">- Convergence and sample complexity analysis <br /></span>
 </p>
