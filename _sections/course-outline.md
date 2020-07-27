@@ -5,9 +5,14 @@ order: 4
 --- 
 
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
+
+0、汪军: Openning and Introduction <br />
+
+课件链接: <a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">https://rlchina.org/lectures/lecture0.pdf</a><br />
+<br />
 1、卢宗青: Value-based Reinforcement Learning <br />
 
-课件链接：<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">https://rlchina.org/lectures/lecture1.pdf</a><br />
+课件链接: <a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">https://rlchina.org/lectures/lecture1.pdf</a><br />
 - Introduction to Reinforcement Learning <br />
     &emsp; - About RL <br />
     &emsp; - RL problem <br />
