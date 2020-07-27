@@ -3,6 +3,7 @@ title: 课程大纲
 icon: fa-th
 order: 4
 ---
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">
 
 1、卢宗青: *Value-based Reinforcement Learning*
 - Introduction to Reinforcement Learning
@@ -139,5 +140,5 @@ order: 4
     - Kernel regression 
     - Approximated Bellman update 
     - Convergence and sample complexity analysis
-    
+</p>    
 
