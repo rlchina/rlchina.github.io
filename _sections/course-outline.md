@@ -4,7 +4,7 @@ icon: fa-th
 order: 4 
 --- 
 
-<p style="text-align:justify; text-justify:inter-ideograph;color: black">课件链接：<a href="http://www.test.yanxishe.com/events/rlchina2020" target="_blank">https://github.com/rlchina/rlchina.github.io/blob/master/lectures</a></p>
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">课件链接：<a href="https://github.com/rlchina/rlchina.github.io/blob/master/lectures" target="_blank">https://github.com/rlchina/rlchina.github.io/blob/master/lectures</a></p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 1、卢宗青: Value-based Reinforcement Learning <br />
