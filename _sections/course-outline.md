@@ -2,6 +2,7 @@
 title: 课程大纲
 icon: fa-th
 order: 4
+hide: true
 ---
 
 1、卢宗青: *Value-based Reinforcement Learning*
