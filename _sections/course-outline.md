@@ -6,64 +6,64 @@ order: 4
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 1、卢宗青: Value-based Reinforcement Learning <br />
 - Introduction to Reinforcement Learning <br />
-    - About RL <br />
-    - RL problem <br />
-    - Inside an RL agent <br />
-    - Markov Decision Processes <br />
+    <p style="text-indent:2em;">- About RL <br /></p>
+    <p style="text-indent:2em;">- RL problem <br /></p>
+    <p style="text-indent:2em;">- Inside an RL agent <br /></p>
+    <p style="text-indent:2em;">- Markov Decision Processes <br /></p>
 - Value-based Methods <br />
-    - Dynamic Programming <br />
-    - Monte Carlo <br />
-    - TD Learning <br />
-    - Off-policy Learning <br />
-    - DQN and its variants <br />
+    <p style="text-indent:2em;">- Dynamic Programming <br /></p>
+    <p style="text-indent:2em;">- Monte Carlo <br /></p>
+    <p style="text-indent:2em;">- TD Learning <br /></p>
+    <p style="text-indent:2em;">- Off-policy Learning <br />
+    <p style="text-indent:2em;">- DQN and its variants <br /></p>
 <br />
 2、汪军: Policy-based RL and RL Theory <br />
 - Policy based approaches <br />
-    - Policy gradient theorem <br />
-    - REINFORCE algorithm <br />
-    - Natural policy gradient <br />
+    <p style="text-indent:2em;">- Policy gradient theorem <br /></p>
+    <p style="text-indent:2em;">- REINFORCE algorithm <br /></p>
+    <p style="text-indent:2em;">- Natural policy gradient <br /></p>
 - PAC Learning theory <br />
-    - Definition and concepts <br />
-    - Concentration inequalities <br />
-    - Uniform convergence <br />
+    <p style="text-indent:2em;">- Definition and concepts <br /></p>
+    <p style="text-indent:2em;">- Concentration inequalities <br /></p>
+    <p style="text-indent:2em;">- Uniform convergence <br /></p>
 - RL theory <br />
-    - Approximate Dynamic Programming <br />
-    - Approximate Value Iteractions <br />
-    - Approximate Policy Iterations <br />
-    - Theoretical bounds and sample complexity analysis <br />
+    <p style="text-indent:2em;">- Approximate Dynamic Programming <br /></p>
+    <p style="text-indent:2em;">- Approximate Value Iteractions <br /></p>
+    <p style="text-indent:2em;">- Approximate Policy Iterations <br /></p>
+    <p style="text-indent:2em;">- Theoretical bounds and sample complexity analysis <br /></p>
 <br />
 3、Haitham: Optimisation in Learning <br />
 - Motivation, Functions & Solution Types <br />
-    - Applications of optimisation in Machine Learning <br />
-    - Convex vs Non-Convex Optimisation Techniques <br />
-    - Non-Convex Optimisation Solution Types <br />
+    <p style="text-indent:2em;">- Applications of optimisation in Machine Learning <br /></p>
+    <p style="text-indent:2em;">- Convex vs Non-Convex Optimisation Techniques <br /></p>
+    <p style="text-indent:2em;">- Non-Convex Optimisation Solution Types <br /></p>
 - Brief Survey of Optimisation Methods – Merits & Demerits <br />
-    - Zero-Order Techniques <br />
-    - First-Order Techniques <br />
-    - Second-Order Techniques <br />
+    <p style="text-indent:2em;">- Zero-Order Techniques <br /></p>
+    <p style="text-indent:2em;">- First-Order Techniques <br /></p>
+    <p style="text-indent:2em;">- Second-Order Techniques <br /></p>
 - ADAM: An Adaptive Solver <br />
-    - Brief History of ADAM <br />
-    - ADAM’s Description <br />
+    <p style="text-indent:2em;">- Brief History of ADAM <br /></p>
+    <p style="text-indent:2em;">- ADAM’s Description <br /></p>
 - ADAM’s Convergence Proof: <br />
-    - Proof Strategy <br />
-    - Assumptions <br />
-    - Loss Function Difference Bound and Stationary Point Convergence <br />
+    <p style="text-indent:2em;">- Proof Strategy <br /></p>
+    <p style="text-indent:2em;">- Assumptions <br /></p>
+    <p style="text-indent:2em;">- Loss Function Difference Bound and Stationary Point Convergence <br /></p>
 <br />
 4、张伟楠: Model-based Reinforcement Learning <br />
 - Model-based RL concepts <br />
-    - Blackbox & whitebox models <br />
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Blackbox & whitebox models <br /></p>
 - Classic MBRL <br />
-    - Q-planning <br />
-    - Dyna-Q <br />
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Q-planning <br /></p>
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Dyna-Q <br /></p>
 - Blackbox MBRL <br />
-    - Model Predictive Control <br />
-    - Probabilistic Ensemble & Trajectory Sampling <br />
-    - Stochastic Lower Bound Optimization <br />
-    - Model-based Policy Optimization <br />
-    - Bidirectional Model based Policy Optimization <br />
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Model Predictive Control <br /></p>
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Probabilistic Ensemble & Trajectory Sampling <br /></p>
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Stochastic Lower Bound Optimization <br /></p>
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Model-based Policy Optimization <br /></p>
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Bidirectional Model based Policy Optimization <br /></p>
 - Whitebox MBRL <br />
-    - Stochastic Value Gradient <br />
-    - Model Augmented Actor Critic <br />
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Stochastic Value Gradient <br />
+    <p style="text-indent:2em;"><p style="text-indent:2em;">- Model Augmented Actor Critic <br />
 <br />
 5、朱占星: Control as Inference  <br />
 - Basics of probabilistic graphical models (D-separation, variational inference.) <br />
@@ -120,23 +120,23 @@ order: 4
 <br />
 12、徐任远: Mean-field Games and Controls <br />
 - Mean-field game models  <br />
-    - Examples  <br />
-    - Approximation of non-cooperative games in the large population regime  <br />
-    - Equilibrium concept  <br />
+    <p style="text-indent:2em;">- Examples  <br /></p>>
+    <p style="text-indent:2em;">- Approximation of non-cooperative games in the large population regime  <br /></p>
+    <p style="text-indent:2em;">- Equilibrium concept  <br /></p>
 - Existence and uniqueness of the equilibrium  <br />
 - Q-learning based algorithm  <br />
-    - Stabilizing and smoothing techniques  <br />
-    - Convergence and sample complexity analysis  <br />
+    <p style="text-indent:2em;">- Stabilizing and smoothing techniques  <br /></p>
+    <p style="text-indent:2em;">- Convergence and sample complexity analysis  <br /></p>
 - General algorithms for learning mean-fifield games  <br />
-    - Value-based algorithms (light touch)  <br />
-    - Policy-based algorithms (light touch) <br />
+    <p style="text-indent:2em;">- Value-based algorithms (light touch)  <br /></p>
+    <p style="text-indent:2em;">- Policy-based algorithms (light touch) <br /></p>
 - Mean-field control models   <br />
-    - Examples  <br />
-    - Approximation of cooperative games in the large population regime  <br />
-    - Social optimality condition  <br />
+    <p style="text-indent:2em;">- Examples  <br /></p>
+    <p style="text-indent:2em;">- Approximation of cooperative games in the large population regime  <br /></p>
+    <p style="text-indent:2em;">- Social optimality condition  <br /></p>
 - Dynamic programming principle on the probability measure space  <br />
 - Q-learning based algorithm  <br />
-    - Kernel regression  <br />
-    - Approximated Bellman update  <br />
-    - Convergence and sample complexity analysis <br />
+    <p style="text-indent:2em;">- Kernel regression  <br /></p>
+    <p style="text-indent:2em;">- Approximated Bellman update  <br /></p>
+    <p style="text-indent:2em;">- Convergence and sample complexity analysis <br /></p>
 </p>
