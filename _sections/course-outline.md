@@ -4,10 +4,9 @@ icon: fa-th
 order: 4 
 --- 
 
-<p style="text-align:justify; text-justify:inter-ideograph;color: black">课件链接：<a href="https://github.com/rlchina/rlchina.github.io/blob/master/lectures" target="_blank">https://github.com/rlchina/rlchina.github.io/blob/master/lectures</a></p>
-
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 1、卢宗青: Value-based Reinforcement Learning <br />
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">课件链接：<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">https://rlchina.org/lectures/lecture1.pdf</a></p>
 - Introduction to Reinforcement Learning <br />
     &emsp; - About RL <br />
     &emsp; - RL problem <br />
