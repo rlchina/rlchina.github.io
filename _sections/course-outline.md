@@ -4,8 +4,7 @@ icon: fa-th
 order: 4 
 --- 
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
-1、卢宗青: Value-based Reinforcement Learning <br />
-<a href="https://www.ntu.edu.sg/home/boan/" target="_blank">课件链接</a>
+1、卢宗青: Value-based Reinforcement Learning  <a href="https://github.com/rlchina/rlchina.github.io/blob/master/lectures/lecture1.pdf" target="_blank">课件链接</a><br />
 - Introduction to Reinforcement Learning <br />
     &emsp; - About RL <br />
     &emsp; - RL problem <br />
