@@ -6,7 +6,8 @@ order: 4
 
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 1、卢宗青: Value-based Reinforcement Learning <br />
-<p style="text-align:justify; text-justify:inter-ideograph;color: black">课件链接：<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">https://rlchina.org/lectures/lecture1.pdf</a></p>
+
+课件链接：<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">https://rlchina.org/lectures/lecture1.pdf</a><br />
 - Introduction to Reinforcement Learning <br />
     &emsp; - About RL <br />
     &emsp; - RL problem <br />
