@@ -10,6 +10,12 @@ order: 2
 
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">课程设置: 从7月27日开始，周一至周六，连续两周每晚7点到8点40，第一节40分钟课程后休息5分钟，第二节40分钟课程后答疑15分钟。</p>
 
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">B站直播链接：<a href="https://live.bilibili.com/22386217" target="_blank">https://live.bilibili.com/22386217</a></p>
+
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">AI研习社直播链接：<a href="http://www.test.yanxishe.com/events/rlchina2020" target="_blank">http://www.test.yanxishe.com/events/rlchina2020</a></p>
+
+
+
 <div class="table-wrapper">
   <table><font color="black">
     <thead>
