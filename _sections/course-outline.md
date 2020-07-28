@@ -20,7 +20,7 @@ order: 4
 <b>    &emsp; - Off-policy Learning </b><br />
 <b>    &emsp; - DQN and its variants </b><br />
 <br />
-2、汪军: Policy-based RL and RL Theory &emsp;(<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">下载课件</a>,<a href="" target="_blank">课程回放</a>)<br />
+2、汪军: Policy-based RL and RL Theory <br />
 <b>- Policy based approaches </b><br />
 <b>    &emsp; - Policy gradient theorem </b><br />
 <b>    &emsp; - REINFORCE algorithm </b><br />
