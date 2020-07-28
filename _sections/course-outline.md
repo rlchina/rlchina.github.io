@@ -5,10 +5,9 @@ order: 4
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 
-0、汪军: Openning and Introduction (<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
+0、汪军: Openning and Introduction &emsp;(<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
 <br />
-1、卢宗青: Value-based Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
-<br />
+1、卢宗青: Value-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
 <b>- Introduction to Reinforcement Learning </b><br />
 <b>    &emsp; - About RL </b><br />
 <b>    &emsp; - RL problem </b><br />
@@ -21,7 +20,7 @@ order: 4
 <b>    &emsp; - Off-policy Learning </b><br />
 <b>    &emsp; - DQN and its variants </b><br />
 <br />
-2、汪军: Policy-based RL and RL Theory <br />
+2、汪军: Policy-based RL and RL Theory &emsp;(<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">下载课件</a>,<a href="" target="_blank">课程回放</a>)<br />
 <b>- Policy based approaches </b><br />
 <b>    &emsp; - Policy gradient theorem </b><br />
 <b>    &emsp; - REINFORCE algorithm </b><br />
