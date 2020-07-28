@@ -2,147 +2,145 @@
 title: 课程内容 
 icon: fa-th 
 order: 4 
---- 
-
+---
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 
-<b>0、汪军: Openning and Introduction </b> (<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
+0、汪军: Openning and Introduction (<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
 <br />
-<b>1、卢宗青: Value-based Reinforcement Learning</b> <br />
-
-课件链接: <a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">https://rlchina.org/lectures/lecture1.pdf</a><br />
-- Introduction to Reinforcement Learning <br />
-    &emsp; - About RL <br />
-    &emsp; - RL problem <br />
-    &emsp; - Inside an RL agent <br />
-    &emsp; - Markov Decision Processes <br />
-- Value-based Methods <br />
-    &emsp; - Dynamic Programming <br />
-    &emsp; - Monte Carlo <br />
-    &emsp; - TD Learning <br />
-    &emsp; - Off-policy Learning <br />
-    &emsp; - DQN and its variants <br />
+1、卢宗青: Value-based Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
+<br />
+<b>- Introduction to Reinforcement Learning </b><br />
+<b>    &emsp; - About RL </b><br />
+<b>    &emsp; - RL problem </b><br />
+<b>    &emsp; - Inside an RL agent </b><br />
+<b>    &emsp; - Markov Decision Processes </b><br />
+<b>- Value-based Methods </b><br />
+<b>    &emsp; - Dynamic Programming </b><br />
+<b>    &emsp; - Monte Carlo </b><br />
+<b>    &emsp; - TD Learning </b><br />
+<b>    &emsp; - Off-policy Learning </b><br />
+<b>    &emsp; - DQN and its variants </b><br />
 <br />
 2、汪军: Policy-based RL and RL Theory <br />
-- Policy based approaches <br />
-    &emsp; - Policy gradient theorem <br />
-    &emsp; - REINFORCE algorithm <br />
-    &emsp; - Natural policy gradient <br />
-- PAC Learning theory <br />
-    &emsp; - Definition and concepts <br />
-    &emsp; - Concentration inequalities <br />
-    &emsp; - Uniform convergence <br />
-- RL theory <br />
-    &emsp; - Approximate Dynamic Programming <br />
-    &emsp; - Approximate Value Iteractions <br />
-    &emsp; - Approximate Policy Iterations <br />
-    &emsp; - Theoretical bounds and sample complexity analysis <br />
+<b>- Policy based approaches </b><br />
+<b>    &emsp; - Policy gradient theorem </b><br />
+<b>    &emsp; - REINFORCE algorithm </b><br />
+<b>    &emsp; - Natural policy gradient </b><br />
+<b>- PAC Learning theory </b><br />
+<b>    &emsp; - Definition and concepts </b><br />
+<b>    &emsp; - Concentration inequalities </b><br />
+<b>    &emsp; - Uniform convergence </b><br />
+<b>- RL theory </b><br />
+<b>    &emsp; - Approximate Dynamic Programming </b><br />
+<b>    &emsp; - Approximate Value Iteractions </b><br />
+<b>    &emsp; - Approximate Policy Iterations </b><br />
+<b>    &emsp; - Theoretical bounds and sample complexity analysis </b><br />
 <br />
 3、Haitham: Optimisation in Learning <br />
-- Motivation, Functions & Solution Types <br />
-    &emsp; - Applications of optimisation in Machine Learning <br />
-    &emsp; - Convex vs Non-Convex Optimisation Techniques <br />
-    &emsp; - Non-Convex Optimisation Solution Types <br />
-- Brief Survey of Optimisation Methods – Merits & Demerits <br />
-    &emsp; - Zero-Order Techniques <br />
-    &emsp; - First-Order Techniques <br />
-    &emsp; - Second-Order Techniques <br />
-- ADAM: An Adaptive Solver <br />
-    &emsp; - Brief History of ADAM <br />
-    &emsp; - ADAM’s Description <br />
-- ADAM’s Convergence Proof: <br />
-    &emsp; - Proof Strategy <br />
-    &emsp; - Assumptions <br />
-    &emsp; - Loss Function Difference Bound and Stationary Point Convergence <br />
+<b>- Motivation, Functions & Solution Types </b><br />
+<b>    &emsp; - Applications of optimisation in Machine Learning </b><br />
+<b>    &emsp; - Convex vs Non-Convex Optimisation Techniques </b><br />
+<b>    &emsp; - Non-Convex Optimisation Solution Types </b><br />
+<b>- Brief Survey of Optimisation Methods – Merits & Demerits </b><br />
+<b>    &emsp; - Zero-Order Techniques </b><br />
+<b>    &emsp; - First-Order Techniques </b><br />
+<b>    &emsp; - Second-Order Techniques </b><br />
+<b>- ADAM: An Adaptive Solver </b><br />
+<b>    &emsp; - Brief History of ADAM </b><br />
+<b>    &emsp; - ADAM’s Description </b><br />
+<b>- ADAM’s Convergence Proof: </b><br />
+<b>    &emsp; - Proof Strategy </b><br />
+<b>    &emsp; - Assumptions </b><br />
+<b>    &emsp; - Loss Function Difference Bound and Stationary Point Convergence </b><br />
 <br />
 4、张伟楠: Model-based Reinforcement Learning <br />
-- Model-based RL concepts <br />
-    &emsp; - Blackbox & whitebox models <br />
-- Classic MBRL <br />
-    &emsp; - Q-planning <br />
-    &emsp; - Dyna-Q <br />
-- Blackbox MBRL <br />
-    &emsp; - Model Predictive Control <br />
-    &emsp; - Probabilistic Ensemble & Trajectory Sampling <br />
-    &emsp; - Stochastic Lower Bound Optimization <br />
-    &emsp; - Model-based Policy Optimization <br />
-    &emsp; - Bidirectional Model based Policy Optimization <br />
-- Whitebox MBRL <br />
-    &emsp; - Stochastic Value Gradient <br />
-    &emsp; - Model Augmented Actor Critic <br />
+<b>- Model-based RL concepts </b><br />
+<b>    &emsp; - Blackbox & whitebox models </b><br />
+<b>- Classic MBRL </b><br />
+<b>    &emsp; - Q-planning </b><br />
+<b>    &emsp; - Dyna-Q </b><br />
+<b>- Blackbox MBRL </b><br />
+<b>    &emsp; - Model Predictive Control </b><br />
+<b>    &emsp; - Probabilistic Ensemble & Trajectory Sampling </b><br />
+<b>    &emsp; - Stochastic Lower Bound Optimization </b><br />
+<b>    &emsp; - Model-based Policy Optimization </b><br />
+<b>    &emsp; - Bidirectional Model based Policy Optimization </b><br />
+<b>- Whitebox MBRL </b><br />
+<b>    &emsp; - Stochastic Value Gradient </b><br />
+<b>    &emsp; - Model Augmented Actor Critic </b><br />
 <br />
 5、朱占星: Control as Inference  <br />
-- Basics of probabilistic graphical models (D-separation, variational inference.) <br />
-- Connection between reinforcement learning and probabilistic inference.  <br />
-- Soft Q-learning  <br />
-- Entropy-regularized policy gradient <br />
+<b>- Basics of probabilistic graphical models (D-separation, variational inference.) </b><br />
+<b>- Connection between reinforcement learning and probabilistic inference.  </b><br />
+<b>- Soft Q-learning  </b><br />
+<b>- Entropy-regularized policy gradient </b><br />
 <br />
 6、俞扬: Imitation Learning  <br />
-- Preliminary <br />
-- Supervised Learning & Behavior Cloning <br />
-- Generative Adversarial Learning & GAIL <br />
-- Advanced Topics <br />
-- From Imitating Policies to Imitating Environments <br />
+<b>- Preliminary </b><br />
+<b>- Supervised Learning & Behavior Cloning </b><br />
+<b>- Generative Adversarial Learning & GAIL </b><br />
+<b>- Advanced Topics </b><br />
+<b>- From Imitating Policies to Imitating Environments </b><br />
 <br />
 7、郝建业: Hierarchical Reinforcement Learning <br />
-- Long-episode and sparse-reward RL tasks <br />
-- Hierarchical RL Concepts <br />
-- Option Framework <br />
-- Feudal Network & Variants <br />
-- Goal-oriented RL <br />
+<b>- Long-episode and sparse-reward RL tasks </b><br />
+<b>- Hierarchical RL Concepts </b><br />
+<b>- Option Framework </b><br />
+<b>- Feudal Network & Variants </b><br />
+<b>- Goal-oriented RL </b><br />
 <br />
 8、张海峰: Game Theory Basics  <br />
-- Motivation and Normal-form Game <br />
-- NE Concepts and Existence Proof <br />
-- Repeated Game and Tit-for-tat <br />
-- Extensive-form Game and Subgame Perfect Equilibrium  <br />
-- Other Solution Concepts <br />
+<b>- Motivation and Normal-form Game </b><br />
+<b>- NE Concepts and Existence Proof </b><br />
+<b>- Repeated Game and Tit-for-tat </b><br />
+<b>- Extensive-form Game and Subgame Perfect Equilibrium  </b><br />
+<b>- Other Solution Concepts </b><br />
 <br />
 9、安波: Multi-agent Systems  <br />
-- History and Current Status <br />
-- Multi-agent Coordination and Negotiation <br />
-- Multi-agent Planning and Teamwork <br />
-- Distributed Constraint Optimization <br />
-- Multi-agent Organizational Design <br />
-- Game Theory and Mechanism Design <br />
-- Game Theory for Security <br />
+<b>- History and Current Status </b><br />
+<b>- Multi-agent Coordination and Negotiation </b><br />
+<b>- Multi-agent Planning and Teamwork </b><br />
+<b>- Distributed Constraint Optimization </b><br />
+<b>- Multi-agent Organizational Design </b><br />
+<b>- Game Theory and Mechanism Design </b><br />
+<b>- Game Theory for Security </b><br />
 <br />
 10、张崇洁: Deep Multi-agent Learning <br />
-- Multi-Agent MDP and Dec-POMDP <br />
-- Centralized Training and Decentralized Execution and Individual-Global Maximization Principle <br />
-- Value-Based Deep MARL Methods <br />
-- Multi-Agent Policy Gradient Methods <br />
-- Theoretical Analysis  <br />
+<b>- Multi-Agent MDP and Dec-POMDP </b><br />
+<b>- Centralized Training and Decentralized Execution and Individual-Global Maximization Principle </b><br />
+<b>- Value-Based Deep MARL Methods </b><br />
+<b>- Multi-Agent Policy Gradient Methods </b><br />
+<b>- Theoretical Analysis  </b><br />
 <br />
 11、杨耀东: Advances in Multi-agent Learning <br />
-- Extensive-form games and its basics <br />
-- Ficiticious play <br />
-- Generalised weakened Ficiticious play <br />
-- Policy Space Response Oracle (PSRO) <br />
-- Alpha-Rank <br />
-- PSRO-Nash <br />
-- PSRO-Rechtified Nash <br />
-- PSRO-AlphaRank <br />
+<b>- Extensive-form games and its basics </b><br />
+<b>- Ficiticious play </b><br />
+<b>- Generalised weakened Ficiticious play </b><br />
+<b>- Policy Space Response Oracle (PSRO) </b><br />
+<b>- Alpha-Rank </b><br />
+<b>- PSRO-Nash </b><br />
+<b>- PSRO-Rechtified Nash </b><br />
+<b>- PSRO-AlphaRank </b><br />
 <br />
 12、徐任远: Mean-field Games and Controls <br />
-- Mean-field game models  <br />
-    &emsp; - Examples  <br />
-    &emsp; - Approximation of non-cooperative games in the large population regime  <br />
-    &emsp; - Equilibrium concept  <br />
-- Existence and uniqueness of the equilibrium  <br />
-- Q-learning based algorithm  <br />
-    &emsp; - Stabilizing and smoothing techniques  <br />
-    &emsp; - Convergence and sample complexity analysis  <br />
-- General algorithms for learning mean-fifield games  <br />
-    &emsp; - Value-based algorithms (light touch)  <br />
-    &emsp; - Policy-based algorithms (light touch) <br />
-- Mean-field control models   <br />
-    &emsp; - Examples  <br />
-    &emsp; - Approximation of cooperative games in the large population regime  <br />
-    &emsp; - Social optimality condition  <br />
-- Dynamic programming principle on the probability measure space  <br />
-- Q-learning based algorithm  <br />
-    &emsp; - Kernel regression  <br />
-    &emsp; - Approximated Bellman update  <br />
-    &emsp; - Convergence and sample complexity analysis <br />
+<b>- Mean-field game models  </b><br />
+<b>    &emsp; - Examples  </b><br />
+<b>    &emsp; - Approximation of non-cooperative games in the large population regime  </b><br />
+<b>    &emsp; - Equilibrium concept  </b><br />
+<b>- Existence and uniqueness of the equilibrium  </b><br />
+<b>- Q-learning based algorithm  </b><br />
+<b>    &emsp; - Stabilizing and smoothing techniques  </b><br />
+<b>    &emsp; - Convergence and sample complexity analysis  </b><br />
+<b>- General algorithms for learning mean-fifield games  </b><br />
+<b>    &emsp; - Value-based algorithms (light touch)  </b><br />
+<b>    &emsp; - Policy-based algorithms (light touch) </b><br />
+<b>- Mean-field control models   </b><br />
+<b>    &emsp; - Examples  </b><br />
+<b>    &emsp; - Approximation of cooperative games in the large population regime  </b><br />
+<b>    &emsp; - Social optimality condition  </b><br />
+<b>- Dynamic programming principle on the probability measure space  </b><br />
+<b>- Q-learning based algorithm  </b><br />
+<b>    &emsp; - Kernel regression  </b><br />
+<b>    &emsp; - Approximated Bellman update  </b><br />
+<b>    &emsp; - Convergence and sample complexity analysis </b><br />
 </p>
