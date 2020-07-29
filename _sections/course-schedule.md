@@ -14,7 +14,7 @@ order: 2
 
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">AI研习社直播链接：<a href="http://www.test.yanxishe.com/events/rlchina2020" target="_blank">http://www.test.yanxishe.com/events/rlchina2020</a></p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;color: black">伯禹平台录播和学习讨论链接：<a href="http://www.test.yanxishe.com/events/rlchina2020" target="_blank">https://www.boyuai.com/elites/course/78eQw4BeCzLos12d</a></p>
+<p style="text-align:justify; text-justify:inter-ideograph;color: black">伯禹平台录播和学习讨论链接：<a href="https://www.boyuai.com/elites/course/78eQw4BeCzLos12d" target="_blank">https://www.boyuai.com/elites/course/78eQw4BeCzLos12d</a></p>
 
 <div class="table-wrapper">
   <table><font color="black">
