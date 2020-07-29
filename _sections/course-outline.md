@@ -35,7 +35,7 @@ order: 4
 <b>    &emsp; - Approximate Policy Iterations </b><br />
 <b>    &emsp; - Theoretical bounds and sample complexity analysis </b><br />
 <br />
-3、Haitham: Optimisation in Learning <br />
+3、Haitham: Optimisation in Learning &emsp;(<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">下载课件</a>)<br />
 <b>- Motivation, Functions & Solution Types </b><br />
 <b>    &emsp; - Applications of optimisation in Machine Learning </b><br />
 <b>    &emsp; - Convex vs Non-Convex Optimisation Techniques </b><br />
