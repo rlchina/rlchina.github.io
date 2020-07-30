@@ -5,9 +5,9 @@ order: 4
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 
-0、汪军: Openning and Introduction &emsp;(<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
+0、汪军: Openning and Introduction &emsp;(<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep" target="_blank">课程回放</a>)<br />
 <br />
-1、卢宗青: Value-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ?from=search&seid=3628926356171354100" target="_blank">课程回放</a>)<br />
+1、卢宗青: Value-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ" target="_blank">课程回放</a>)<br />
 <b>- Introduction to Reinforcement Learning </b><br />
 <b>    &emsp; - About RL </b><br />
 <b>    &emsp; - RL problem </b><br />
@@ -20,7 +20,7 @@ order: 4
 <b>    &emsp; - Off-policy Learning </b><br />
 <b>    &emsp; - DQN and its variants </b><br />
 <br />
-2、汪军: Policy-based RL and RL Theory &emsp;(<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">下载课件</a>)<br />
+2、汪军: Policy-based RL and RL Theory &emsp;(<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Yi4y1u7Cz" target="_blank">课程回放</a>)<br />
 <b>- Policy based approaches </b><br />
 <b>    &emsp; - Policy gradient theorem </b><br />
 <b>    &emsp; - REINFORCE algorithm </b><br />
@@ -35,7 +35,7 @@ order: 4
 <b>    &emsp; - Approximate Policy Iterations </b><br />
 <b>    &emsp; - Theoretical bounds and sample complexity analysis </b><br />
 <br />
-3、Haitham: Optimisation in Learning &emsp;(<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">下载课件</a>)<br />
+3、Haitham: Optimisation in Learning &emsp;(<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1h54y1v7k6" target="_blank">课程回放</a>)<br />
 <b>- Motivation, Functions & Solution Types </b><br />
 <b>    &emsp; - Applications of optimisation in Machine Learning </b><br />
 <b>    &emsp; - Convex vs Non-Convex Optimisation Techniques </b><br />
@@ -52,7 +52,7 @@ order: 4
 <b>    &emsp; - Assumptions </b><br />
 <b>    &emsp; - Loss Function Difference Bound and Stationary Point Convergence </b><br />
 <br />
-4、张伟楠: Model-based Reinforcement Learning <br />
+4、张伟楠: Model-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture4.pdf" target="_blank">下载课件</a>)<br />
 <b>- Model-based RL concepts </b><br />
 <b>    &emsp; - Blackbox & whitebox models </b><br />
 <b>- Classic MBRL </b><br />
