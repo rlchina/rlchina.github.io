@@ -68,7 +68,7 @@ order: 4
 <b>    &emsp; - Stochastic Value Gradient </b><br />
 <b>    &emsp; - Model Augmented Actor Critic </b><br />
 <br />
-5、朱占星: Control as Inference  <br />
+5、朱占星: Control as Inference  &emsp;(<a href="https://rlchina.org/lectures/lecture5.pdf" target="_blank">下载课件</a>)<br />
 <b>- Basics of probabilistic graphical models (D-separation, variational inference.) </b><br />
 <b>- Connection between reinforcement learning and probabilistic inference.  </b><br />
 <b>- Soft Q-learning  </b><br />
