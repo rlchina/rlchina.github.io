@@ -52,7 +52,7 @@ order: 4
 <b>    &emsp; - Assumptions </b><br />
 <b>    &emsp; - Loss Function Difference Bound and Stationary Point Convergence </b><br />
 <br />
-4、张伟楠: Model-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture4.pdf" target="_blank">下载课件</a>)<br />
+4、张伟楠: Model-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture4.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1ph411Z774" target="_blank">课程回放</a>)<br />
 <b>- Model-based RL concepts </b><br />
 <b>    &emsp; - Blackbox & whitebox models </b><br />
 <b>- Classic MBRL </b><br />
@@ -68,7 +68,7 @@ order: 4
 <b>    &emsp; - Stochastic Value Gradient </b><br />
 <b>    &emsp; - Model Augmented Actor Critic </b><br />
 <br />
-5、朱占星: Control as Inference  &emsp;(<a href="https://rlchina.org/lectures/lecture5.pdf" target="_blank">下载课件</a>)<br />
+5、朱占星: Control as Inference  &emsp;(<a href="https://rlchina.org/lectures/lecture5.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1WD4y1U7u4" target="_blank">课程回放</a>)<br />
 <b>- Basics of probabilistic graphical models (D-separation, variational inference.) </b><br />
 <b>- Connection between reinforcement learning and probabilistic inference.  </b><br />
 <b>- Soft Q-learning  </b><br />
