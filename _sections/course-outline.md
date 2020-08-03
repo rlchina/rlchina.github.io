@@ -74,19 +74,18 @@ order: 4
 <b>- Soft Q-learning  </b><br />
 <b>- Entropy-regularized policy gradient </b><br />
 <br />
-6、俞扬: Imitation Learning  <br />
+6、俞扬: Imitation Learning  &emsp;(<a href="https://www.bilibili.com/video/BV1EV411z7CZ" target="_blank">课程回放</a>)<br />
 <b>- Preliminary </b><br />
 <b>- Supervised Learning & Behavior Cloning </b><br />
 <b>- Generative Adversarial Learning & GAIL </b><br />
 <b>- Advanced Topics </b><br />
 <b>- From Imitating Policies to Imitating Environments </b><br />
 <br />
-7、郝建业: Hierarchical Reinforcement Learning <br />
-<b>- Long-episode and sparse-reward RL tasks </b><br />
-<b>- Hierarchical RL Concepts </b><br />
-<b>- Option Framework </b><br />
-<b>- Feudal Network & Variants </b><br />
-<b>- Goal-oriented RL </b><br />
+7、郝建业: Hierarchical Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">下载课件</a>)<br />
+<b>- From Sparse to Dense </b><br />
+<b>    &emsp;- Reward Learning/Shaping </b><br />
+<b>    &emsp;- Temporal/spatial credit assignment (single-agent/multiagent settings) </b><br />
+<b>    &emsp;- Task hierarchical decomposition (hierarchical RL) </b><br />
 <br />
 8、张海峰: Game Theory Basics  <br />
 <b>- Motivation and Normal-form Game </b><br />
