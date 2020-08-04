@@ -87,12 +87,14 @@ order: 4
 <b>    &emsp;- Temporal/spatial credit assignment (single-agent/multiagent settings) </b><br />
 <b>    &emsp;- Task hierarchical decomposition (hierarchical RL) </b><br />
 <br />
-8、张海峰: Game Theory Basics  <br />
+8、张海峰: Game Theory Basics  &emsp;(<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a><br />
 <b>- Motivation and Normal-form Game </b><br />
-<b>- NE Concepts and Existence Proof </b><br />
-<b>- Repeated Game and Tit-for-tat </b><br />
-<b>- Extensive-form Game and Subgame Perfect Equilibrium  </b><br />
-<b>- Other Solution Concepts </b><br />
+<b>- Extensive-form Game and Imperfect Information </b><br />
+<b>- Bayesian Game and Incomplete Information </b><br />
+<b>- Nash Equilibrium and Variants </b><br />
+<b>- Theoretical Results of Nash Equilibrium </b><br />
+<b>- Repeated Game and Learning Methods </b><br />
+<b>- Alternate Solution Concepts and Evolutionary Game Theory </b><br />
 <br />
 9、安波: Multi-agent Systems  <br />
 <b>- History and Current Status </b><br />
