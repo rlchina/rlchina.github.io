@@ -81,13 +81,13 @@ order: 4
 <b>- Advanced Topics </b><br />
 <b>- From Imitating Policies to Imitating Environments </b><br />
 <br />
-7、郝建业: Hierarchical Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">下载课件</a>)<br />
+7、郝建业: Hierarchical Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1sD4y1U7Qt" target="_blank">课程回放</a>)<br />
 <b>- From Sparse to Dense </b><br />
 <b>    &emsp;- Reward Learning/Shaping </b><br />
 <b>    &emsp;- Temporal/spatial credit assignment (single-agent/multiagent settings) </b><br />
 <b>    &emsp;- Task hierarchical decomposition (hierarchical RL) </b><br />
 <br />
-8、张海峰: Game Theory Basics  &emsp;(<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a>)<br />
+8、张海峰: Game Theory Basics  &emsp;(<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1ED4y1U7eK" target="_blank">课程回放</a>)<br />
 <b>- Motivation and Normal-form Game </b><br />
 <b>- Extensive-form Game and Imperfect Information </b><br />
 <b>- Bayesian Game and Incomplete Information </b><br />
