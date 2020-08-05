@@ -87,7 +87,7 @@ order: 4
 <b>    &emsp;- Temporal/spatial credit assignment (single-agent/multiagent settings) </b><br />
 <b>    &emsp;- Task hierarchical decomposition (hierarchical RL) </b><br />
 <br />
-8、张海峰: Game Theory Basics  &emsp;(<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a><br />
+8、张海峰: Game Theory Basics  &emsp;(<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a>)<br />
 <b>- Motivation and Normal-form Game </b><br />
 <b>- Extensive-form Game and Imperfect Information </b><br />
 <b>- Bayesian Game and Incomplete Information </b><br />
@@ -112,7 +112,7 @@ order: 4
 <b>- Multi-Agent Policy Gradient Methods </b><br />
 <b>- Theoretical Analysis  </b><br />
 <br />
-11、杨耀东: Advances in Multi-agent Learning <br />
+11、杨耀东: Advances in Multi-agent Learning  &emsp;(<a href="https://rlchina.org/lectures/lecture11.pdf" target="_blank">下载课件</a>)<br />
 <b>- Extensive-form games and its basics </b><br />
 <b>- Ficiticious play </b><br />
 <b>- Generalised weakened Ficiticious play </b><br />
