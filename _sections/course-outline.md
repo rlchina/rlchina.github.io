@@ -96,7 +96,7 @@ order: 4
 <b>- Repeated Game and Learning Methods </b><br />
 <b>- Alternate Solution Concepts and Evolutionary Game Theory </b><br />
 <br />
-9、安波: Multi-agent Systems  <br />
+9、安波: Multi-agent Systems &emsp;(<a href="https://rlchina.org/lectures/lecture9.pdf" target="_blank">下载课件</a>) <br />
 <b>- History and Current Status </b><br />
 <b>- Multi-agent Coordination and Negotiation </b><br />
 <b>- Multi-agent Planning and Teamwork </b><br />
