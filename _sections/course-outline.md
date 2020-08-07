@@ -96,7 +96,7 @@ order: 4
 <b>- Repeated Game and Learning Methods </b><br />
 <b>- Alternate Solution Concepts and Evolutionary Game Theory </b><br />
 <br />
-9、安波: Multi-agent Systems &emsp;(<a href="https://rlchina.org/lectures/lecture9.pdf" target="_blank">下载课件</a>) <br />
+9、安波: Multi-agent Systems &emsp;(<a href="https://rlchina.org/lectures/lecture9.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV16v411v7SF" target="_blank">课程回放</a>) <br />
 <b>- History and Current Status </b><br />
 <b>- Multi-agent Coordination and Negotiation </b><br />
 <b>- Multi-agent Planning and Teamwork </b><br />
@@ -105,7 +105,7 @@ order: 4
 <b>- Game Theory and Mechanism Design </b><br />
 <b>- Game Theory for Security </b><br />
 <br />
-10、张崇洁: Deep Multi-agent Learning &emsp;(<a href="https://rlchina.org/lectures/lecture10.pdf" target="_blank">下载课件</a>)<br />
+10、张崇洁: Deep Multi-agent Learning &emsp;(<a href="https://rlchina.org/lectures/lecture10.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV195411a7Nf" target="_blank">课程回放</a>)<br />
 <b>- Multi-Agent MDP and Dec-POMDP </b><br />
 <b>- Centralized Training and Decentralized Execution and Individual-Global Maximization Principle </b><br />
 <b>- Value-Based Deep MARL Methods </b><br />
