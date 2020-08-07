@@ -122,7 +122,7 @@ order: 4
 <b>- PSRO-Rechtified Nash </b><br />
 <b>- PSRO-AlphaRank </b><br />
 <br />
-12、徐任远: Mean-field Games and Controls <br />
+12、徐任远: Mean-field Games and Controls &emsp;(<a href="https://rlchina.org/lectures/lecture12.pdf" target="_blank">下载课件</a>)<br />
 <b>- Mean-field game models  </b><br />
 <b>    &emsp; - Examples  </b><br />
 <b>    &emsp; - Approximation of non-cooperative games in the large population regime  </b><br />
