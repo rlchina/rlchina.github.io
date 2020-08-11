@@ -143,6 +143,7 @@ order: 4
 <b>    &emsp; - Kernel regression  </b><br />
 <b>    &emsp; - Approximated Bellman update  </b><br />
 <b>    &emsp; - Convergence and sample complexity analysis </b><br />
+<br />
 13、全体导师: Panel Discussion <br />
 <br />
 </p>
