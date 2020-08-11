@@ -28,72 +28,72 @@ order: 2
     <tbody>
       <tr>
         <td>2020-07-27 19:00-19:10</td>
-        <td>Openning and Introduction</td>
+        <td>Openning and Introduction (<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep" target="_blank">课程回放</a>)</td>
         <td>汪军</td>
       </tr>
       <tr>
         <td>2020-07-27 19:10-20:50</td>
-        <td>Value-based Reinforcement Learning</td>
+        <td>Value-based Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ" target="_blank">课程回放</a>)</td>
         <td>卢宗青</td>
       </tr>
       <tr>
         <td>2020-07-28 19:00-20:40</td>
-        <td>Policy-based RL and RL Theory</td>
+        <td>Policy-based RL and RL Theory (<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Yi4y1u7Cz" target="_blank">课程回放</a>)</td>
         <td>汪军</td>
       </tr>
       <tr>
         <td>2020-07-29 19:00-20:40</td>
-        <td>Optimisation in Learning</td>
+        <td>Optimisation in Learning (<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1h54y1v7k6" target="_blank">课程回放</a>)</td>
         <td>Haitham</td>
       </tr>
       <tr>
         <td>2020-07-30 19:00-20:40</td>
-        <td>Model-based Reinforcement Learning</td>
+        <td>Model-based Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture4.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1ph411Z774" target="_blank">课程回放</a>)</td>
         <td>张伟楠</td>
       </tr>
       <tr>
         <td>2020-07-31 19:00-20:40</td>
-        <td>Control as Inference</td>
+        <td>Control as Inference (<a href="https://rlchina.org/lectures/lecture5.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1WD4y1U7u4" target="_blank">课程回放</a>)</td>
         <td>朱占星</td>
       </tr>
       <tr>
         <td>2020-08-01 19:00-20:40</td>
-        <td>Imitation Learning</td>
+        <td>Imitation Learning (<a href="https://www.bilibili.com/video/BV1EV411z7CZ" target="_blank">课程回放</a>)</td>
         <td>俞扬</td>
       </tr>
       <tr>
         <td>2020-08-03 19:00-20:40</td>
-        <td>Hierarchical Reinforcement Learning</td>
+        <td>Hierarchical Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1sD4y1U7Qt" target="_blank">课程回放</a>)</td>
         <td>郝建业</td>
       </tr>
       <tr>
         <td>2020-08-04 19:00-20:40</td>
-        <td>Game Theory Basic</td>
+        <td>Game Theory Basic (<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1ED4y1U7eK" target="_blank">课程回放</a>)</td>
         <td>张海峰</td>
       </tr>
       <tr>
         <td>2020-08-05 19:00-20:40</td>
-        <td>Multi-agent Systems</td>
+        <td>Multi-agent Systems (<a href="https://rlchina.org/lectures/lecture9.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV16v411v7SF" target="_blank">课程回放</a>)</td>
         <td>安波</td>
       </tr>
       <tr>
         <td>2020-08-06 19:00-20:40</td>
-        <td>Deep Multi-agent Learning</td>
+        <td>Deep Multi-agent Learning (<a href="https://rlchina.org/lectures/lecture10.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV195411a7Nf" target="_blank">课程回放</a>)</td>
         <td>张崇洁</td>
       </tr>
       <tr>
         <td>2020-08-07 19:00-20:40</td>
-        <td>Advances in Multi-agent Learning</td>
+        <td>Advances in Multi-agent Learning (<a href="https://rlchina.org/lectures/lecture11.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV14p4y1v7s1" target="_blank">课程回放</a>)</td>
         <td>杨耀东</td>
       </tr>
       <tr>
         <td>2020-08-08 19:00-20:40</td>
-        <td>Mean-field Games and Controls</td>
+        <td>Mean-field Games and Controls (<a href="https://rlchina.org/lectures/lecture12.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1zk4y117iR" target="_blank">课程回放</a>)</td>
         <td>徐任远</td>
       </tr>
       <tr>
         <td>2020-08-08 20:40-21:10</td>
-        <td>Panel Discussion</td>
+        <td>Panel Discussion (<a href="https://www.bilibili.com/video/BV1w64y1c77v" target="_blank">课程回放</a>)</td>
         <td>全体导师</td>
       </tr>
     </tbody>

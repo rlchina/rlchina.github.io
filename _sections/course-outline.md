@@ -5,9 +5,9 @@ order: 4
 ---
 <p style="text-align:justify; text-justify:inter-ideograph;color: black">
 
-0、汪军: Openning and Introduction &emsp;(<a href="https://rlchina.org/lectures/lecture0.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV125411a7Ep" target="_blank">课程回放</a>)<br />
+0、汪军: Openning and Introduction <br />
 <br />
-1、卢宗青: Value-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ" target="_blank">课程回放</a>)<br />
+1、卢宗青: Value-based Reinforcement Learning <br />
 <b>- Introduction to Reinforcement Learning </b><br />
 <b>    &emsp; - About RL </b><br />
 <b>    &emsp; - RL problem </b><br />
@@ -20,7 +20,7 @@ order: 4
 <b>    &emsp; - Off-policy Learning </b><br />
 <b>    &emsp; - DQN and its variants </b><br />
 <br />
-2、汪军: Policy-based RL and RL Theory &emsp;(<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1Yi4y1u7Cz" target="_blank">课程回放</a>)<br />
+2、汪军: Policy-based RL and RL Theory <br />
 <b>- Policy based approaches </b><br />
 <b>    &emsp; - Policy gradient theorem </b><br />
 <b>    &emsp; - REINFORCE algorithm </b><br />
@@ -35,7 +35,7 @@ order: 4
 <b>    &emsp; - Approximate Policy Iterations </b><br />
 <b>    &emsp; - Theoretical bounds and sample complexity analysis </b><br />
 <br />
-3、Haitham: Optimisation in Learning &emsp;(<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1h54y1v7k6" target="_blank">课程回放</a>)<br />
+3、Haitham: Optimisation in Learning <br />
 <b>- Motivation, Functions & Solution Types </b><br />
 <b>    &emsp; - Applications of optimisation in Machine Learning </b><br />
 <b>    &emsp; - Convex vs Non-Convex Optimisation Techniques </b><br />
@@ -52,7 +52,7 @@ order: 4
 <b>    &emsp; - Assumptions </b><br />
 <b>    &emsp; - Loss Function Difference Bound and Stationary Point Convergence </b><br />
 <br />
-4、张伟楠: Model-based Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture4.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1ph411Z774" target="_blank">课程回放</a>)<br />
+4、张伟楠: Model-based Reinforcement Learning <br />
 <b>- Model-based RL concepts </b><br />
 <b>    &emsp; - Blackbox & whitebox models </b><br />
 <b>- Classic MBRL </b><br />
@@ -68,26 +68,26 @@ order: 4
 <b>    &emsp; - Stochastic Value Gradient </b><br />
 <b>    &emsp; - Model Augmented Actor Critic </b><br />
 <br />
-5、朱占星: Control as Inference  &emsp;(<a href="https://rlchina.org/lectures/lecture5.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1WD4y1U7u4" target="_blank">课程回放</a>)<br />
+5、朱占星: Control as Inference  <br />
 <b>- Basics of probabilistic graphical models (D-separation, variational inference.) </b><br />
 <b>- Connection between reinforcement learning and probabilistic inference.  </b><br />
 <b>- Soft Q-learning  </b><br />
 <b>- Entropy-regularized policy gradient </b><br />
 <br />
-6、俞扬: Imitation Learning  &emsp;(<a href="https://www.bilibili.com/video/BV1EV411z7CZ" target="_blank">课程回放</a>)<br />
+6、俞扬: Imitation Learning <br />
 <b>- Preliminary </b><br />
 <b>- Supervised Learning & Behavior Cloning </b><br />
 <b>- Generative Adversarial Learning & GAIL </b><br />
 <b>- Advanced Topics </b><br />
 <b>- From Imitating Policies to Imitating Environments </b><br />
 <br />
-7、郝建业: Hierarchical Reinforcement Learning &emsp;(<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1sD4y1U7Qt" target="_blank">课程回放</a>)<br />
+7、郝建业: Hierarchical Reinforcement Learning <br />
 <b>- From Sparse to Dense </b><br />
 <b>    &emsp;- Reward Learning/Shaping </b><br />
 <b>    &emsp;- Temporal/spatial credit assignment (single-agent/multiagent settings) </b><br />
 <b>    &emsp;- Task hierarchical decomposition (hierarchical RL) </b><br />
 <br />
-8、张海峰: Game Theory Basics  &emsp;(<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV1ED4y1U7eK" target="_blank">课程回放</a>)<br />
+8、张海峰: Game Theory Basics  <br />
 <b>- Motivation and Normal-form Game </b><br />
 <b>- Extensive-form Game and Imperfect Information </b><br />
 <b>- Bayesian Game and Incomplete Information </b><br />
@@ -96,7 +96,7 @@ order: 4
 <b>- Repeated Game and Learning Methods </b><br />
 <b>- Alternate Solution Concepts and Evolutionary Game Theory </b><br />
 <br />
-9、安波: Multi-agent Systems &emsp;(<a href="https://rlchina.org/lectures/lecture9.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV16v411v7SF" target="_blank">课程回放</a>) <br />
+9、安波: Multi-agent Systems  <br />
 <b>- History and Current Status </b><br />
 <b>- Multi-agent Coordination and Negotiation </b><br />
 <b>- Multi-agent Planning and Teamwork </b><br />
@@ -105,14 +105,14 @@ order: 4
 <b>- Game Theory and Mechanism Design </b><br />
 <b>- Game Theory for Security </b><br />
 <br />
-10、张崇洁: Deep Multi-agent Learning &emsp;(<a href="https://rlchina.org/lectures/lecture10.pdf" target="_blank">下载课件</a>,<a href="https://www.bilibili.com/video/BV195411a7Nf" target="_blank">课程回放</a>)<br />
+10、张崇洁: Deep Multi-agent Learning<br />
 <b>- Multi-Agent MDP and Dec-POMDP </b><br />
 <b>- Centralized Training and Decentralized Execution and Individual-Global Maximization Principle </b><br />
 <b>- Value-Based Deep MARL Methods </b><br />
 <b>- Multi-Agent Policy Gradient Methods </b><br />
 <b>- Theoretical Analysis  </b><br />
 <br />
-11、杨耀东: Advances in Multi-agent Learning  &emsp;(<a href="https://rlchina.org/lectures/lecture11.pdf" target="_blank">下载课件</a>)<br />
+11、杨耀东: Advances in Multi-agent Learning <br />
 <b>- Extensive-form games and its basics </b><br />
 <b>- Ficiticious play </b><br />
 <b>- Generalised weakened Ficiticious play </b><br />
@@ -122,7 +122,7 @@ order: 4
 <b>- PSRO-Rechtified Nash </b><br />
 <b>- PSRO-AlphaRank </b><br />
 <br />
-12、徐任远: Mean-field Games and Controls &emsp;(<a href="https://rlchina.org/lectures/lecture12.pdf" target="_blank">下载课件</a>)<br />
+12、徐任远: Mean-field Games and Controls <br />
 <b>- Mean-field game models  </b><br />
 <b>    &emsp; - Examples  </b><br />
 <b>    &emsp; - Approximation of non-cooperative games in the large population regime  </b><br />
@@ -143,4 +143,6 @@ order: 4
 <b>    &emsp; - Kernel regression  </b><br />
 <b>    &emsp; - Approximated Bellman update  </b><br />
 <b>    &emsp; - Convergence and sample complexity analysis </b><br />
+13、全体导师: Panel Discussion <br />
+<br />
 </p>
