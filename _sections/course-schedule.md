@@ -58,7 +58,7 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-01 19:00-20:40</td>
-        <td>Imitation Learning (<a href="https://www.bilibili.com/video/BV1EV411z7CZ" target="_blank">回放</a>)</td>
+        <td>Imitation Learning (<a href="https://rlchina.org/lectures/lecture6.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1EV411z7CZ" target="_blank">回放</a>)</td>
         <td>俞扬</td>
       </tr>
       <tr>
