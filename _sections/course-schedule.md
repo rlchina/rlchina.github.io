@@ -33,17 +33,17 @@ order: 2
       </tr>
       <tr>
         <td>2020-07-27 19:10-20:50</td>
-        <td>Value-based Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ" target="_blank">回放</a>)</td>
+        <td>Introduction to Reinforcement Learning and Value-based Methods (<a href="https://rlchina.org/lectures/lecture1.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1Hz4y1Q7UQ" target="_blank">回放</a>)</td>
         <td>卢宗青</td>
       </tr>
       <tr>
         <td>2020-07-28 19:00-20:40</td>
-        <td>Policy-based RL and RL Theory (<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1Yi4y1u7Cz" target="_blank">回放</a>)</td>
+        <td>Foundations of Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture2.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1Yi4y1u7Cz" target="_blank">回放</a>)</td>
         <td>汪军</td>
       </tr>
       <tr>
         <td>2020-07-29 19:00-20:40</td>
-        <td>Optimisation in Learning (<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1h54y1v7k6" target="_blank">回放</a>)</td>
+        <td>Non-Convex Optimisation: Survey & ADAM's Proof (<a href="https://rlchina.org/lectures/lecture3.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1h54y1v7k6" target="_blank">回放</a>)</td>
         <td>Haitham</td>
       </tr>
       <tr>
@@ -63,12 +63,12 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-03 19:00-20:40</td>
-        <td>Hierarchical Reinforcement Learning (<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1sD4y1U7Qt" target="_blank">回放</a>)</td>
+        <td>Learning with Sparse Rewards (<a href="https://rlchina.org/lectures/lecture7.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1sD4y1U7Qt" target="_blank">回放</a>)</td>
         <td>郝建业</td>
       </tr>
       <tr>
         <td>2020-08-04 19:00-20:40</td>
-        <td>Game Theory Basic (<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1ED4y1U7eK" target="_blank">回放</a>)</td>
+        <td>Game Theory Basics (<a href="https://rlchina.org/lectures/lecture8.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV1ED4y1U7eK" target="_blank">回放</a>)</td>
         <td>张海峰</td>
       </tr>
       <tr>
@@ -78,12 +78,12 @@ order: 2
       </tr>
       <tr>
         <td>2020-08-06 19:00-20:40</td>
-        <td>Deep Multi-agent Learning (<a href="https://rlchina.org/lectures/lecture10.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV195411a7Nf" target="_blank">回放</a>)</td>
+        <td>Deep Multi-agent Reinforcement Learning(<a href="https://rlchina.org/lectures/lecture10.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV195411a7Nf" tDarget="_blank">回放</a>)</td>
         <td>张崇洁</td>
       </tr>
       <tr>
         <td>2020-08-07 19:00-20:40</td>
-        <td>Advances in Multi-agent Learning (<a href="https://rlchina.org/lectures/lecture11.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV14p4y1v7s1" target="_blank">回放</a>)</td>
+        <td>Advances of Multi-agent Learning(in Gaming AI) (<a href="https://rlchina.org/lectures/lecture11.pdf" target="_blank">课件</a>,<a href="https://www.bilibili.com/video/BV14p4y1v7s1" target="_blank">回放</a>)</td>
         <td>杨耀东</td>
       </tr>
       <tr>
